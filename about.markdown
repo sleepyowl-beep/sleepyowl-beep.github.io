@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I create this Blog to record my journey to obtain OSWE, So mostly it will contain web security material that I have gathered.
+TBH, I'm not really good at web security so that's why I determine to improve my skill in this area.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+But if you interest in android security and ARM exploit development, visit my other website: [court-of-testing-analysing.blogspot.com](https://court-of-testing-analysing.blogspot.com/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
